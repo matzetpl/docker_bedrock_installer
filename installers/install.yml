@@ -1,0 +1,6 @@
+wp_args:
+  wp_cli_url: 'https://localhost:8000'
+  wp_cli_title: 'Website'
+  wp_cli_admin_user: 'admin'
+  wp_cli_admin_password: 'admin'
+  wp_cli_admin_email: 'kontakt.matzet@protonmail.com'

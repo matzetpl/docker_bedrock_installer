@@ -1,0 +1,7 @@
+app_files/web/app/themes/expressbus/node_modules
+app_files/vendor
+app_files/.env
+app_files/web/app/uploads
+app_files/web/app/debug.log
+app_files/web/app/cache/
+app_files/web/app/debug.log
